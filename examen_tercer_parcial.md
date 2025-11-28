@@ -1,36 +1,64 @@
 # MARCOS OBIEL LOYA RIVAS
-18295
-- Habilidades blandas
+# 18295
+Habilidades blandas:
+
+- Comunicación efectiva
+- Trabajo en equipo
+- Liderazgo
+- Empatía
+- Creatividad
+- Resolución de problemas
+- Manejo del tiempo
+- Adaptabilidad
+
+Habilidades duras:
+
+- Programación (Python, JavaScript, SQL)
+- Manejo de bases de datos
+- Uso de Excel avanzado
+- Configuración de redes (Cisco)
+- Diseño gráfico
+- Administración de proyectos
+- Contabilidad o análisis financiero
 
 Trato con personas:
-comunicación
-trabajo en equipo
-liderazgo
-empatía
+- comunicación
+- trabajo en equipo
+- liderazgo
+- empatía
 
--Habilidades duras
+Comunicación efectiva
 
--Habilidades técnicas: 
-programación
-idiomas
-análisis
-diseño
-matemáticas
+- Trabajo en equipo
+- Liderazgo
+- Empatía
+- Creatividad
+- Resolución de problemas
+- Manejo del tiempo
+- Adaptabilidad
 
--Comandos de terminal
+Habilidades técnicas: 
 
-ls (ver)
-cd (entrar)
-mkdir (crear carpeta)
-rm (borrar)
+- programación
+- idiomas
+- análisis
+- diseño
+- matemáticas
 
--Comandos de Git/GitHub
+Comandos de terminal
 
-git add
-git commit
-git push
-git pull
-git clone
+- ls (ver)
+- cd (entrar)
+- mkdir (crear carpeta)
+- rm (borrar)
+
+Comandos de Git/GitHub
+
+- git add
+- git commit
+- git push
+- git pull
+- git clone
 
 
 
