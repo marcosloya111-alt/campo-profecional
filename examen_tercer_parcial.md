@@ -1,6 +1,6 @@
-MARCOS OBIEL LOYA RIVAS
+# MARCOS OBIEL LOYA RIVAS
 18295
--Habilidades blandas
+- Habilidades blandas
 
 Trato con personas:
 comunicación
