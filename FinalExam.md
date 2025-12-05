@@ -65,3 +65,5 @@ Ingeniero”.
     Mas practicas o ejercicios 
 18. Escribe una breve reflexión final sobre tu experiencia este semestre en la materia.
     Este semestre la materia me ayudó a entender mejor el camino profesional que quiero seguir y las áreas que puedo explorar dentro de la ingeniería en sistemas. Aprendí sobre herramientas importantes y también sobre las habilidades personales que necesito fortalecer. Siento que esta materia me dio más claridad sobre mi futuro y me motivó a seguir preparándome para convertirme en una buena profesional.
+
+## ..
